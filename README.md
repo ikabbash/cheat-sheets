@@ -19,11 +19,11 @@ This repository contains a collection of DevOps cheat sheets I’ve personally w
 - [DevSecOps](https://ikabbash.notion.site/DevSecOps-05f64b1bd78448d5a0ab5bb701e06f71): Covers the essentials of DevSecOps, introducing key tools, concepts, and most basics to get you started
 
 - [Azure AI Basics](https://ikabbash.notion.site/Azure-AI-Basics-Cheat-Sheet-d64eec5a4e5f421ca783194585eee92c): Covers AI methodologies, Azure AI concepts, and services. Scratches the surface for Azure AI-900
+
+- [LangChain](https://ikabbash.notion.site/LangChain-102cab751076806dabc3cec25086e2fb?pvs=4): A beginner friendly study guide that covers the basic components of LangChain with examples
   
 
 ## Upcoming Cheat Sheets
-
-- LangChain
   
 - Google Cloud Platform (Associate Cloud Engineer level)
 
