@@ -22,7 +22,9 @@ This repository contains a collection of DevOps cheat sheets I’ve personally w
 
 - [LangChain](https://ikabbash.notion.site/LangChain-102cab751076806dabc3cec25086e2fb?pvs=4): A beginner friendly study guide that covers the basic components of LangChain with examples
 
-- [Google Cloud Platform](https://ikabbash.notion.site/GCP-7ad78d47678d44a8848a44fb95195472): A cheat sheet covering most essentials needed for the ACE certification with notes and best practices 
+- [Google Cloud Platform](https://ikabbash.notion.site/GCP-7ad78d47678d44a8848a44fb95195472): A cheat sheet covering most essentials needed for the ACE certification with notes and best practices
+
+- [Fluentd](https://ikabbash.notion.site/Fluentd-134cab75107680b2a784f38d8fd20966?pvs=4): A quick introduction on Fluentd with examples
   
 
 ## Upcoming Cheat Sheets
