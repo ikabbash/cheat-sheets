@@ -25,6 +25,8 @@ This repository contains a collection of DevOps cheat sheets I’ve personally w
 - [Google Cloud Platform](https://ikabbash.notion.site/GCP-7ad78d47678d44a8848a44fb95195472): A cheat sheet covering most essentials needed for the ACE certification with notes and best practices
 
 - [Fluentd](https://ikabbash.notion.site/Fluentd-134cab75107680b2a784f38d8fd20966?pvs=4): A quick introduction on Fluentd with examples
+
+- [Puppet](https://ikabbash.notion.site/Puppet-167cab75107680198693f31f2c48772a?pvs=4):  A major overview that covers most of the basics
   
 
 ## Upcoming Cheat Sheets
