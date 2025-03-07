@@ -26,12 +26,12 @@ This repository contains a collection of DevOps cheat sheets I’ve personally w
 
 - [Fluentd](https://ikabbash.notion.site/Fluentd-134cab75107680b2a784f38d8fd20966?pvs=4): A quick introduction on Fluentd with examples
 
-- [Puppet](https://ikabbash.notion.site/Puppet-167cab75107680198693f31f2c48772a?pvs=4):  A major overview that covers most of the basics
+- [Puppet](https://ikabbash.notion.site/Puppet-167cab75107680198693f31f2c48772a?pvs=4): A major overview that covers most of the basics
+
+- [Kubernetes](https://ikabbash.notion.site/Kubernetes-f4e3985f38b34c5ab75e0984f6b4caa4?pvs=4): Covers most essential Kubernetes concepts and best practices, with a focus on CKA and CKS certifications
   
 
 ## Upcoming Cheat Sheets
-
-- Kubernetes (CKA & CKS)
 
 - Azure
   
