@@ -31,6 +31,8 @@ This repository contains a collection of DevOps cheat sheets I’ve personally w
 - [Kubernetes](https://ikabbash.notion.site/Kubernetes-f4e3985f38b34c5ab75e0984f6b4caa4?pvs=4): Covers most essential Kubernetes concepts and best practices, with a focus on CKA and CKS certifications.
 
 - [Openshift](https://ikabbash.notion.site/Openshift-177cab75107680c5ba46eea223c615c1?pvs=4): A concise overview that scratches the surface of Openshift.
+
+- [MLOps Fundamentals](https://ikabbash.notion.site/MLOps-Fundamentals-197cab7510768055915fe7b9f9d0d659?pvs=4): A cheat sheet of Kodekloud's Fundamentals of MLOps [course](https://learn.kodekloud.com/user/courses/fundamentals-of-mlops).
   
 
 ## Upcoming Cheat Sheets
