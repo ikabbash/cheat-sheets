@@ -33,12 +33,12 @@ This repository contains a collection of DevOps cheat sheets I’ve personally w
 - [Openshift](https://ikabbash.notion.site/Openshift-177cab75107680c5ba46eea223c615c1?pvs=4): A concise overview that scratches the surface of Openshift.
 
 - [MLOps Fundamentals](https://ikabbash.notion.site/MLOps-Fundamentals-197cab7510768055915fe7b9f9d0d659?pvs=4): A cheat sheet of Kodekloud's Fundamentals of MLOps [course](https://learn.kodekloud.com/user/courses/fundamentals-of-mlops).
+
+- [Azure](https://ikabbash.notion.site/Azure-181cab75107680b7b12cd4e0cb6b8208?pvs=4): A packed cheat sheet with a wide range of Azure topics, services, and practical insights for various use cases.
   
 
 ## Upcoming Cheat Sheets
 
-- Azure
-  
 - Loki
 
 - Ansible
