@@ -16,7 +16,7 @@ This repository contains a collection of DevOps cheat sheets I’ve personally w
 
 - [Terraform](https://ikabbash.notion.site/Terraform-c8255cb5b32147a7a06d59f5be93d981): Comprehensive guide covering Terraform basics, best practices and commands.
 
-- [Ansible](): Coming soon.
+- [Ansible](https://ikabbash.notion.site/Ansible-1962b886cc164e15b3ce010296ff0d25?pvs=4): Basic introduction to Ansible, covering most fundamentals.
 
 - [Puppet](https://ikabbash.notion.site/Puppet-167cab75107680198693f31f2c48772a?pvs=4): A major overview that covers most of the basics.
 
