@@ -10,7 +10,7 @@ This repository contains a collection of DevOps cheat sheets I’ve personally w
 
 - [Azure AI Basics](https://ikabbash.notion.site/Azure-AI-Basics-Cheat-Sheet-d64eec5a4e5f421ca783194585eee92c): Covers AI methodologies, Azure AI concepts, and services. Scratches the surface for Azure AI-900.
 
-- [AWS](): Coming soon.
+- [AWS](https://ikabbash.notion.site/AWS-1becab7510768066bf54fd8cfc91ed68?source=copy_link): A detailed cheat sheet that has core AWS services, concepts, and best practices for the Solutions Architect Associate.
 
 ## Infrastructure as Code (IaC)
 
