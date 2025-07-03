@@ -50,6 +50,8 @@ This repository contains a collection of DevOps cheat sheets I’ve personally w
 
 - [Linux](https://ikabbash.notion.site/Linux-2b53f09a26264b14b795893f0f383ec3): Has most of the basics and notes you're gonna need, organized in several categories.
 
+- [Network](https://ikabbash.notion.site/Network-796169e471454d858594b9799823c137): A simple cheat sheet covering general networking basics including OSI model, common protocols, SSL, and other key concepts
+
 - [Source Control Management](https://ikabbash.notion.site/Source-Control-Management-SCM-2d9a5f7da6134ce48cf5825ecf84b289): A cheat sheet on Git and version control principles, including key workflows and commands.
 
 - [Golang Notes](https://github.com/ikabbash/self-learning-archive/blob/main/Golang/README.md): Golang essential concepts covered concisely.
