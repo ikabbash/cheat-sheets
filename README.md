@@ -46,6 +46,8 @@ This repository contains a collection of DevOps cheat sheets I’ve personally w
   
 - [DevSecOps](https://ikabbash.notion.site/DevSecOps-05f64b1bd78448d5a0ab5bb701e06f71): Covers the essentials of DevSecOps, introducing key tools, concepts, and most basics to get you started.
 
+- [Vault](https://ikabbash.notion.site/Vault-280cab75107680a099e3f5105193e436): Covers most of Vault's core and advanced concepts, including authentication, policies, and secret engines.
+
 ## Others
 
 - [Linux](https://ikabbash.notion.site/Linux-2b53f09a26264b14b795893f0f383ec3): Has most of the basics and notes you're gonna need, organized in several categories.
