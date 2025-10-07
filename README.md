@@ -56,6 +56,8 @@ This repository contains a collection of DevOps cheat sheets I’ve personally w
 
 - [Source Control Management](https://ikabbash.notion.site/Source-Control-Management-SCM-2d9a5f7da6134ce48cf5825ecf84b289): A cheat sheet on Git and version control principles, including key workflows and commands.
 
+- [GitLab](https://ikabbash.notion.site/GitLab-231cab7510768082b90dc915ddf74fa0?source=copy_link): Highlights key GitLab fundamentals, CI/CD concepts, and core CI/CD components.
+
 - [Golang Notes](https://github.com/ikabbash/self-learning-archive/blob/main/Golang/README.md): Golang essential concepts covered concisely.
   
 - [Elixir](https://github.com/ikabbash/self-learning-archive/tree/main/Elixir): Has Elixir’s esential concepts, syntax, and basic fundamentals.
