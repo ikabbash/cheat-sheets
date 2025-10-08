@@ -6,19 +6,19 @@ This repository contains a collection of DevOps cheat sheets I’ve personally w
 
 - [Google Cloud Platform](https://ikabbash.notion.site/GCP-7ad78d47678d44a8848a44fb95195472): A cheat sheet covering most essentials needed for the ACE certification with notes and best practices.
 
-- [Azure](https://ikabbash.notion.site/Azure-181cab75107680b7b12cd4e0cb6b8208?pvs=4): A packed cheat sheet with a wide range of Azure topics, services, and practical insights for various use cases.
+- [Azure](https://ikabbash.notion.site/Azure-181cab75107680b7b12cd4e0cb6b8208): A packed cheat sheet with a wide range of Azure topics, services, and practical insights for various use cases.
 
 - [Azure AI Basics](https://ikabbash.notion.site/Azure-AI-Basics-Cheat-Sheet-d64eec5a4e5f421ca783194585eee92c): Covers AI methodologies, Azure AI concepts, and services. Scratches the surface for Azure AI-900.
 
-- [AWS](https://ikabbash.notion.site/AWS-1becab7510768066bf54fd8cfc91ed68?source=copy_link): A detailed cheat sheet that has core AWS services, concepts, and best practices for the Solutions Architect Associate.
+- [AWS](https://ikabbash.notion.site/AWS-1becab7510768066bf54fd8cfc91ed68): A detailed cheat sheet that has core AWS services, concepts, and best practices for the Solutions Architect Associate.
 
 ## Infrastructure as Code (IaC)
 
 - [Terraform](https://ikabbash.notion.site/Terraform-c8255cb5b32147a7a06d59f5be93d981): Comprehensive guide covering Terraform basics, best practices and commands.
 
-- [Ansible](https://ikabbash.notion.site/Ansible-1962b886cc164e15b3ce010296ff0d25?pvs=4): Basic introduction to Ansible, covering most fundamentals.
+- [Ansible](https://ikabbash.notion.site/Ansible-1962b886cc164e15b3ce010296ff0d25): Basic introduction to Ansible, covering most fundamentals.
 
-- [Puppet](https://ikabbash.notion.site/Puppet-167cab75107680198693f31f2c48772a?pvs=4): A major overview that covers most of the basics.
+- [Puppet](https://ikabbash.notion.site/Puppet-167cab75107680198693f31f2c48772a): A major overview that covers most of the basics.
 
 # Container Orchestration & Deployment
 
@@ -26,9 +26,11 @@ This repository contains a collection of DevOps cheat sheets I’ve personally w
 
 - [Helm](https://ikabbash.notion.site/Helm-58db98eb4e4848feb64a95d690d2e42f): Explains most concepts about Helm and templating.
 
+- [Cilium](https://ikabbash.notion.site/Cilium-281cab7510768049a246e10f2da3b95d): Covers Cilium architecture, components, and networking, security, and observability features
+
 - [ArgoCD](https://ikabbash.notion.site/ArgoCD-29e9f44e06c944cca86e66e4b5ada0a4): A guide that explains the basic components and workflow.
 
-- [Openshift](https://ikabbash.notion.site/Openshift-177cab75107680c5ba46eea223c615c1?pvs=4): A concise overview that scratches the surface of Openshift.
+- [Openshift](https://ikabbash.notion.site/Openshift-177cab75107680c5ba46eea223c615c1): A concise overview that scratches the surface of Openshift.
 
 ## Monitoring & Observability
 
@@ -40,7 +42,7 @@ This repository contains a collection of DevOps cheat sheets I’ve personally w
 
 - [LangChain](https://ikabbash.notion.site/LangChain-102cab751076806dabc3cec25086e2fb): A beginner friendly study guide that covers the basic components of LangChain with examples.
 
-- [MLOps Fundamentals](https://ikabbash.notion.site/MLOps-Fundamentals-197cab7510768055915fe7b9f9d0d659?pvs=4): A cheat sheet of Kodekloud's Fundamentals of MLOps [course](https://learn.kodekloud.com/user/courses/fundamentals-of-mlops).
+- [MLOps Fundamentals](https://ikabbash.notion.site/MLOps-Fundamentals-197cab7510768055915fe7b9f9d0d659): A cheat sheet of Kodekloud's Fundamentals of MLOps [course](https://learn.kodekloud.com/user/courses/fundamentals-of-mlops).
 
 ## Security
   
@@ -56,9 +58,9 @@ This repository contains a collection of DevOps cheat sheets I’ve personally w
 
 - [Source Control Management](https://ikabbash.notion.site/Source-Control-Management-SCM-2d9a5f7da6134ce48cf5825ecf84b289): A cheat sheet on Git and version control principles, including key workflows and commands.
 
-- [GitLab](https://ikabbash.notion.site/GitLab-231cab7510768082b90dc915ddf74fa0?source=copy_link): Highlights key GitLab fundamentals, CI/CD concepts, and core CI/CD components.
+- [GitLab](https://ikabbash.notion.site/GitLab-231cab7510768082b90dc915ddf74fa0): Highlights key GitLab fundamentals, CI/CD concepts, and core CI/CD components.
 
 - [Golang Notes](https://github.com/ikabbash/self-learning-archive/blob/main/Golang/README.md): Golang essential concepts covered concisely.
   
-- [Elixir](https://github.com/ikabbash/self-learning-archive/tree/main/Elixir): Has Elixir’s esential concepts, syntax, and basic fundamentals.
+- [Elixir](https://github.com/ikabbash/self-learning-archive/tree/main/Elixir/README.md): Has Elixir’s esential concepts, syntax, and basic fundamentals.
   
