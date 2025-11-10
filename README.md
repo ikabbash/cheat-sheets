@@ -32,6 +32,8 @@ This repository contains a collection of DevOps cheat sheets I’ve personally w
 
 - [Openshift](https://ikabbash.notion.site/Openshift-177cab75107680c5ba46eea223c615c1): A concise overview that scratches the surface of Openshift.
 
+- [Talos Linux](https://ikabbash.notion.site/Talos-Linux-299cab751076802a8b1ee963ecb7d8fb): Covers the basics, including the architecture, installation, configuration, and how it integrates with Kubernetes.
+
 ## Monitoring & Observability
 
 - [Prometheus](https://ikabbash.notion.site/Prometheus-a82c22286f4b4862b3164e50566d6ecb): Has a deep dive in key concepts, components, and alerting with examples.
