@@ -62,6 +62,8 @@ This repository contains a collection of DevOps cheat sheets I’ve personally w
 
 - [GitLab](https://ikabbash.notion.site/GitLab-231cab7510768082b90dc915ddf74fa0): Highlights key GitLab fundamentals, CI/CD concepts, and core CI/CD components.
 
+- [Kafka](https://ikabbash.notion.site/Kafka-2bccab751076808389dbf6385ffd74b5): Covers Kafka core concepts (including Kafka Connect), architecture, components, scalability, and configuration with practical notes.
+
 - [Golang Notes](https://github.com/ikabbash/self-learning-archive/blob/main/Golang/README.md): Golang essential concepts covered concisely.
   
 - [Elixir](https://github.com/ikabbash/self-learning-archive/tree/main/Elixir/README.md): Has Elixir’s esential concepts, syntax, and basic fundamentals.
