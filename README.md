@@ -52,6 +52,8 @@ This repository contains a collection of DevOps cheat sheets I’ve personally w
 
 - [Vault](https://ikabbash.notion.site/Vault-280cab75107680a099e3f5105193e436): Covers most of Vault's core and advanced concepts, including authentication, policies, and secret engines.
 
+- [Auth Protocols](https://ikabbash.notion.site/Auth-Protocols-2d0cab7510768083a019fabe39b4a971): Covers modern authentication and authorization fundamentals such as OAuth 2.0, JWT, and OIDC with practical notes.
+
 ## Others
 
 - [Linux](https://ikabbash.notion.site/Linux-2b53f09a26264b14b795893f0f383ec3): Has most of the basics and notes you're gonna need, organized in several categories.
